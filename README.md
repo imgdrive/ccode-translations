@@ -9,7 +9,7 @@
 &#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
 
 ## How to contribute
-1. Download <a href="https://raw.githubusercontent.com/CCode/ccode_translations/master/CCode_ENU.ini">CCode_ENU.ini</a>, rename to CCode_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
+1. Download <a href="https://raw.githubusercontent.com/dvdforge/ccode_translations/master/CCode_ENU.ini">CCode_ENU.ini</a>, rename to CCode_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
 2. Translate strings after '=' character
 <pre>    [INFO]
     ID=0x0409           ; LCID (Locale identifier)
