@@ -1,8 +1,8 @@
 ## Translations for CCode
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
-    <tr><td>English           </td><td><a href="CCode_ENU.ini">CCode_ENU.ini</a></td><td>&#x1F34F; 1.2</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
-    <tr><td>Chinese (简体中文)</td><td><a href="CCode_CHS.ini">CCode_CHS.ini</a></td><td>&#x1F34F; 1.2</td><td>Yang</td></tr>
+    <tr><td>English           </td><td><a href="CCode_ENU.ini">CCode_ENU.ini</a></td><td>&#x1F34F; 1.3</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
+    <tr><td>Chinese (简体中文)</td><td><a href="CCode_CHS.ini">CCode_CHS.ini</a></td><td>&#x1F34F; 1.3</td><td>Yang</td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="CCode_PLK.ini">CCode_PLK.ini</a></td><td>&#x1F34F; 1.2</td><td>Fresta</td></tr>
 </table>
 
