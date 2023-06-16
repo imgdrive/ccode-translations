@@ -13,8 +13,8 @@
 &#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
 
 ## How to translate
-1. Download <a href="https://raw.githubusercontent.com/dvdforge/ccode_translations/master/CCode_ENU.ini">CCode_ENU.ini</a>, rename to CCode_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.<br />
-We recommend set the file encoding to UTF-8 BOM. Our build script automatically converts UTF-8 format to UTF-16 LE on release
+1. Download <a href="https://raw.githubusercontent.com/dvdforge/ccode_translations/master/CCode_ENU.ini">CCode_ENU.ini</a>, rename to CCode_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.<br /><br />
+We recommend set the file encoding to UTF-8 BOM. Our build script automatically converts UTF-8 format to UTF-16 LE on release.
 2. Translate strings after '=' character
 <pre>    [INFO]
     ID=0x0409           ; LCID (Locale identifier)
