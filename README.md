@@ -5,14 +5,16 @@
     <tr><td>Chinese (简体中文)</td><td><a href="CCode_CHS.ini">CCode_CHS.ini</a></td><td>&#x1F34F; 1.8</td><td>Yang</td></tr>
     <tr><td>French (Français) </td><td><a href="CCode_FRA.ini">CCode_FRA.ini</a></td><td>&#x1F34F; 1.8</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="CCode_ITA.ini">CCode_ITA.ini</a></td><td>&#x1F34F; 1.8</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
+    <tr><td>Korean (한국어)      </td><td><a href="CCode_KOR.ini">CCode_KOR.ini</a></td><td>&#x1F34F; 1.8</td><a href="https://github.com/VenusGirl">VenusGirl</a></tr>
     <tr><td>Polish (Polski)   </td><td><a href="CCode_PLK.ini">CCode_PLK.ini</a></td><td>&#x1F34F; 1.8</td><td>Fresta</td></tr>
     <tr><td>Turkish (Türkçe)  </td><td><a href="CCode_TRK.ini">CCode_TRK.ini</a></td><td>&#x1F34F; 1.8</td><td>byburhann2010</td></tr>
 </table>
 
 &#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
 
-## How to contribute
-1. Download <a href="https://raw.githubusercontent.com/dvdforge/ccode_translations/master/CCode_ENU.ini">CCode_ENU.ini</a>, rename to CCode_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
+## How to translate
+1. Download <a href="https://raw.githubusercontent.com/dvdforge/ccode_translations/master/CCode_ENU.ini">CCode_ENU.ini</a>, rename to CCode_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.<br />
+We recommend set the file encoding to UTF-8 BOM. Our build script automatically converts UTF-8 format to UTF-16 LE on release
 2. Translate strings after '=' character
 <pre>    [INFO]
     ID=0x0409           ; LCID (Locale identifier)
@@ -24,8 +26,8 @@
     0=General
     3=&Language:
     ...</pre>
-3. Copy the new language file to language\ folder in the location of ccode.exe, restart CCode, and then you can change the language in the software settings.
-4. Send the translation file to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a>. If you would like to participate in the official translation of ImgDrive, please register for a GitHub account and send the account name to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a> and we will set you up as collaborator so that you can edit the language file directly online on GitHub.
+3. Copy the new language file to language\ folder in the location of ccode.exe, restart CCode, then you can change the language in the software settings.
+4. Send file to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a>. If you want to update files more conveniently, send us your GitHub username as well, once you're set up as a collaborator, you'll be able to edit file directly online.
 
 ## LCID - Locale identifier
 <table>
