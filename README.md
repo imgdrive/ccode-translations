@@ -4,6 +4,7 @@
     <tr><td>English           </td><td><a href="CCode_ENU.ini">CCode_ENU.ini</a></td><td>&#x1F34F; 1.8</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="CCode_CHS.ini">CCode_CHS.ini</a></td><td>&#x1F34F; 1.8</td><td>Yang</td></tr>
     <tr><td>French (Français) </td><td><a href="CCode_FRA.ini">CCode_FRA.ini</a></td><td>&#x1F34F; 1.8</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
+    <tr><td>Italian (Italiano)</td><td><a href="CCode_ITA.ini">CCode_ITA.ini</a></td><td>&#x1F34F; 1.8</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="CCode_PLK.ini">CCode_PLK.ini</a></td><td>&#x1F34F; 1.8</td><td>Fresta</td></tr>
     <tr><td>Turkish (Türkçe)  </td><td><a href="CCode_TRK.ini">CCode_TRK.ini</a></td><td>&#x1F34F; 1.8</td><td>byburhann2010</td></tr>
 </table>
