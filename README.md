@@ -1,7 +1,7 @@
 ## Translations for CCode
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
-    <tr><td>English           </td><td><a href="CCode_ENU.ini">CCode_ENU.ini</a></td><td>&#x1F34F; 2.1</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
+    <tr><td>English           </td><td><a href="CCode_ENU.ini">CCode_ENU.ini</a></td><td>&#x1F34F; 2.1</td><td><a href="https://github.com/imgdrive">imgdrive</a></td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="CCode_CHS.ini">CCode_CHS.ini</a></td><td>&#x1F34F; 2.1</td><td>Yang</td></tr>
     <tr><td>French (Français) </td><td><a href="CCode_FRA.ini">CCode_FRA.ini</a></td><td>&#x1F34F; 2.1</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="CCode_ITA.ini">CCode_ITA.ini</a></td><td>&#x1F34F; 2.1</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
@@ -14,7 +14,7 @@
 &#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
 
 ## How to translate
-1. Download <a href="https://raw.githubusercontent.com/dvdforge/ccode_translations/master/CCode_ENU.ini">CCode_ENU.ini</a>, rename to CCode_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.<br /><br />
+1. Download <a href="https://raw.githubusercontent.com/imgdrive/ccode_translations/master/CCode_ENU.ini">CCode_ENU.ini</a>, rename to CCode_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.<br /><br />
 We recommend set the file encoding to UTF-8 BOM. Our build script automatically converts UTF-8 format to UTF-16 LE on release.
 2. Translate strings after '=' character
 <pre>    [INFO]
