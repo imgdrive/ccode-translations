@@ -5,6 +5,7 @@
     <tr><td>Chinese (简体中文)</td><td><a href="CCode_CHS.ini">CCode_CHS.ini</a></td><td>&#x1F34F; 2.1</td><td>Yang</td></tr>
     <tr><td>French (Français) </td><td><a href="CCode_FRA.ini">CCode_FRA.ini</a></td><td>&#x1F34F; 2.1</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="CCode_ITA.ini">CCode_ITA.ini</a></td><td>&#x1F34F; 2.1</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
+    <tr><td>Japanese (日本語) </td><td><a href="CCode_JPN.ini">CCode_ITA.ini</a></td><td>&#x1F34F; 2.1</td><td>coolvitto</td></tr>
     <tr><td>Korean (한국어)      </td><td><a href="CCode_KOR.ini">CCode_KOR.ini</a></td><td>&#x1F34F; 2.1</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="CCode_PLK.ini">CCode_PLK.ini</a></td><td>&#x1F34A; 1.8</td><td>Fresta</td></tr>
     <tr><td>Slovenian (Slovenščina)</td><td><a href="CCode_SLV.ini">CCode_SLV.ini</a></td><td>&#x1F34A; 2.0</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
