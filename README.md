@@ -6,7 +6,7 @@
     <tr><td>French (Français) </td><td><a href="CCode_FRA.ini">CCode_FRA.ini</a></td><td>&#x1F34F; 2.1</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
     <tr><td>German (Deutsch)  </td><td><a href="CCode_GER.ini">CCode_GER.ini</a></td><td>&#x1F34F; 2.1</td><td>Stefan Hirsch 2025/03</td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="CCode_ITA.ini">CCode_ITA.ini</a></td><td>&#x1F34F; 2.1</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
-    <tr><td>Japanese (日本語) </td><td><a href="CCode_JPN.ini">CCode_ITA.ini</a></td><td>&#x1F34F; 2.1</td><td>coolvitto</td></tr>
+    <tr><td>Japanese (日本語) </td><td><a href="CCode_JPN.ini">CCode_JPN.ini</a></td><td>&#x1F34F; 2.1</td><td>coolvitto</td></tr>
     <tr><td>Korean (한국어)      </td><td><a href="CCode_KOR.ini">CCode_KOR.ini</a></td><td>&#x1F34F; 2.1</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="CCode_PLK.ini">CCode_PLK.ini</a></td><td>&#x1F34A; 1.8</td><td>Fresta</td></tr>
     <tr><td>Slovenian (Slovenščina)</td><td><a href="CCode_SLV.ini">CCode_SLV.ini</a></td><td>&#x1F34A; 2.0</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
