@@ -2,6 +2,7 @@
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
     <tr><td>English           </td><td><a href="CCode_ENU.ini">CCode_ENU.ini</a></td><td>&#x1F34F; 2.1</td><td><a href="https://github.com/imgdrive">imgdrive</a></td></tr>
+    <tr><td>Bulgarian (Български)</td><td><a href="CCode_BUL.ini">CCode_BUL.ini</a></td><td>&#x1F34F; 2.1</td><td>Yang</td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="CCode_CHS.ini">CCode_CHS.ini</a></td><td>&#x1F34F; 2.1</td><td>Yang</td></tr>
     <tr><td>French (Français) </td><td><a href="CCode_FRA.ini">CCode_FRA.ini</a></td><td>&#x1F34F; 2.1</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
     <tr><td>German (Deutsch)  </td><td><a href="CCode_GER.ini">CCode_GER.ini</a></td><td>&#x1F34F; 2.1</td><td>Stefan Hirsch 2025/03</td></tr>
