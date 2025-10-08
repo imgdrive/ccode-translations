@@ -11,6 +11,7 @@
     <tr><td>Korean (한국어)      </td><td><a href="CCode_KOR.ini">CCode_KOR.ini</a></td><td>&#x1F34F; 2.1</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="CCode_PLK.ini">CCode_PLK.ini</a></td><td>&#x1F34A; 1.8</td><td>Fresta</td></tr>
     <tr><td>Slovenian (Slovenščina)</td><td><a href="CCode_SLV.ini">CCode_SLV.ini</a></td><td>&#x1F34A; 2.0</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
+    <tr><td>Spanish (Chile)   </td><td><a href="CCode_ESL.ini">CCode_ESL.ini</a></td><td>&#x1F34A; 2.1</td><td>rudacoba</td></tr>
     <tr><td>Turkish (Türkçe)  </td><td><a href="CCode_TRK.ini">CCode_TRK.ini</a></td><td>&#x1F34A; 1.8</td><td>byburhann2010</td></tr>
 </table>
 
